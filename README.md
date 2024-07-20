@@ -84,10 +84,6 @@ dynamic-file-server/
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.If you would like to contribute to this project, please fork the repository and submit a pull request. All contributions are welcome!
-
 ## Credits
 
 This project was created by [K MONIKA]. You can find me on [https://github.com/KMONIKA26].
